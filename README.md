@@ -1,6 +1,6 @@
 # Onde me encontrar 
 [![Github Badge](https://img.shields.io/badge/-Github-6f42c1?style=flat-square&logo=Github&logoColor=white)](https://github.com/luciananvsnascimento)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-6f42c1?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luciana-neves-nascimento/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-6f42c1?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luciananvsnascimento/)
 [![Replit](https://img.shields.io/badge/-Replit-6f42c1?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@lucianaNvs7)
 
 # Sobre mim 💜
