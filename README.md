@@ -1,5 +1,5 @@
 ## Onde me encontrar 
-[![Github Badge](https://img.shields.io/badge/-Github-6f42c1?style=flat-square&logo=Github&logoColor=white)](https://github.com/luciananvsnascimento)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-6f42c1?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luciananvsnascimento/)
 [![Replit](https://img.shields.io/badge/-Replit-6f42c1?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@lucianaNvs7)
 
@@ -7,9 +7,9 @@
 
 Olá! Me chamo Luciana e sou estudante de tecnólogo em Desenvolvimento de Software na Fatec Diadema. Me comprometi a enfrentar os desafios da área de tecnologia e sair da zona de conforto. Busco constantemente aprender diferentes tecnologias, me identifico em especial as com áreas de front-end, análise de dados e cloud computing.
 
-## Educação 🎓
+## Cursando 🎓
 
-Tecnólogo em Desenvolvimento de Software - Fatec Diadema Luigi Papaiz (Matutino) com previsão de término para Julho/2025.
+Tecnólogo em Desenvolvimento de Software na Fatec Diadema Luigi Papaiz com previsão de término para Julho/2025.
 
 ## Objetivos Profissionais 🚀
 
@@ -23,7 +23,6 @@ Estou buscando oportunidades de estágio na área de TI para expandir meus conhe
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6f42c1?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-6f42c1?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-6f42c1?style=flat-square&logo=css3&logoColor=white)
-
 
 ### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-6f42c1?style=flat-square&logo=mysql&logoColor=white)
