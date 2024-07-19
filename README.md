@@ -11,12 +11,7 @@ Olá! Me chamo Luciana e sou estudante de tecnólogo em Desenvolvimento de Softw
 
 Tecnólogo em Desenvolvimento de Software na Fatec Diadema Luigi Papaiz com previsão de término para Julho/2025.
 
-## Objetivos Profissionais 🚀
-
-Estou buscando oportunidades de estágio na área de TI para expandir meus conhecimentos e contribuir ativamente em projetos desafiadores. Estou empenhada em me manter atualizada e aprimorar constantemente minhas habilidades.
-
 ## Meus Conhecimentos 💻
-
 ### Linguagens 
 ![Python](https://img.shields.io/badge/-Python-6f42c1?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-6f42c1?style=flat-square&logo=java&logoColor=white)
